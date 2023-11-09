@@ -13,7 +13,7 @@
     "@sentry/tracing": "^6.10.0",
     "axios": "^0.21.1",
     "chalk": "^4.1.0",
-    "chromedriver": "^88.0.0",
+    "chromedriver": "^119.0.1",
     "chromium": "^3.0.2",
     "dotenv": "^8.2.0",
     "follow-redirects": "^1.14.0",
