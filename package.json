@@ -11,7 +11,7 @@
   "dependencies": {
     "@sentry/node": "^6.10.0",
     "@sentry/tracing": "^6.10.0",
-    "axios": "^0.21.1",
+    "axios": "^1.6.0",
     "chalk": "^4.1.0",
     "chromedriver": "^88.0.0",
     "chromium": "^3.0.2",
